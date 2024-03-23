@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://github.com/Carizza1004/portfolio/blob/main/carizza%20hero%20image.png") no-repeat center;
+    background: url("https://photos.google.com/photo/AF1QipPRmT2bPmmQ6V_THrrshdY_OFhO1wglcUmaD0fK") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -259,7 +259,7 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color: #fff;
-    background: url("https://github.com/Carizza1004/portfolio/blob/main/carizza%20hero%20image.png") center no-repeat;
+    background: url("https://photos.google.com/photo/AF1QipPRmT2bPmmQ6V_THrrshdY_OFhO1wglcUmaD0fK") center no-repeat;
 }
 
 .services .title::before,
