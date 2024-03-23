@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://lh3.googleusercontent.com/pw/ADCreHfKXIl4Kwx1BgAH7mPeRAUAqyoPERlnvQFs8FGAgpKA92sARNSw7sj9s3rldyNpQJTkBeQy2jo4pkXIoKrXh3REOyXn9fGzi-86vTGGl-FSzkUxYFIiFymfGzPsWmCDrWuj1GZNb46PnCImJEEPR3aLUkTFvmXrYn9c0O9zPgHKwrBahFNS8BbfNimbatCYayFVoHEJNYjK5OrP9b71boW1E_jcvHz7Xi1_dpbf7jasyMnRapiHiyDNXmstzICkjqGou4rIWClB9nSG20rAxr9veVATMwkfzFL92vNoCCINNyjwKLWhxHicvnKMpqe7SPiKaaM57DKJqmK0IfLJnAhJVtLwNjCc_xX1gjtyECYwtydhwUOyFf43ENj-St7k2TU9EEIfMxDVr8biIRxrlk3hLkJHNiwk0t93mC5fRZZ4Sry-4nx3hKGVrDaJdivplZm1b-FX4VOLy-KWAzExQPhU1zCTxoZhTaI7IiANpeWX9t3gWG-IVzNwZUKkkDKpESDwnnLT3b1m0YJkm2oy8yUzzSB00frNfwvZqg4W6AC1yTUW3nhY6Qhdwq-zOxIWwNcfE2kN3ruNTNs03zAHMOamosXm4IGuZw-ytUNXL5VI-7MHPUl44ZSjUBjwvt2oweEFvCeZPvwzkf5oH1jzbieecwuI95bSclWJfEmuyv3CcooPDChfwfj0Kv5YyqQ3SgonJo3ztNMr1bPFMh5gnE2CRUlFyy_YDnRowo7XoVwlSNemacO1Qv5QFT9YkZlptAlI-73mEQSwBPTAQY0EbhZ3-5qMdkD5HLBs2qT_ukZowM3bhYXwJgt-bL9peld4PKBR4HUik5lJdVE66Fa1p2ZiJZFNKHfLyEFJOMjzab7nrdTMRRLXye70O9qdgIO1SRcVZQ=w1749-h984-s-no-gm?authuser=0") no-repeat center;
+    background: url("https://github.com/Carizza1004/portfolio/blob/main/carizza%20hero%20image.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -259,7 +259,7 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color: #fff;
-    background: url(https://lh3.googleusercontent.com/pw/ADCreHfAiau6qv9ubAdtsqkpWtWrXZyg_0rOz91uBJ4nG4Hsl83ymUVWZcyk8oGDcb0o4G2rSZDmfDRNEQlmPaAVejcNX3vHB_b1ZVqpef6cRLpMfUUsGkgkmNsrbx6C49RaE5tFEEvIZQSw8EdEL-B_E0x3T0X-87YcZBWbqmLW6z49sEqvVbtCe2Skb-pQohueWigRj_83BL1zaAx1cIhpkOFZBX6ZgITvY2IIATts8N4NSajczeUdQGLpCd97kW16FaMgtOkVyLXjIMI_t7Kur7-jHegdUWyOE0LWJc31QeyJnx8OGw4MQHhmzAEPWxOjG9ysZNzUmiJNnTEtJodCdtXbWmORElJT6fJ0zpM3QrLwjPPKy38yyXTQSow92vjfHeS6_MSB_URCRDfHCIvsUqBJSXNjdOZACOeTAJQwHgZjVDOw530zKNbdbjsiyYW8ZmdbFZH5rHuGwDctd3ZFMnqFEQHkX7EaBjoWevz-cumg7xYqIKn3bS50_wk0JiRfVkb2c8xi8h3Uct3P7ZfvJW8Of_L8-7TAWmJNXpFnknMy0cjOV4gp1gS3rhwqY8n1M_vt_LnkzwlP31m0HTyy8jEpEJmgIyxNLPwDHpFEBNw8Q74JoFORYX2wWz1sZbFXofeHRZliLUjKvG5Rjska7n7S78ljLLG1GSgOKDKlpXQDG6O22SqRGFuB_XNA5zMglD77FKzp40Lh9pZ-abZD65Oc7Y3FH6QLVlbBNnNC_GYlwbI0Z3VEUPyaAWL8r2hdAYPmf7to_SZxOHCRW2YZ9CN9fBJ6mmrC_r5I9pS0xV7yPdjzAB3OShyDv3EoeR8V3dUlaJEdyucm20n_bjxjFTNx0WDq9cpXDIniigXnvxZ421RMuG1-LHlTIlsIlDcEHo1ISw=w1749-h984-s-no-gm?authuser=0) center no-repeat;
+    background: url("https://github.com/Carizza1004/portfolio/blob/main/carizza%20hero%20image.png") center no-repeat;
 }
 
 .services .title::before,
